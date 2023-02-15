@@ -1,0 +1,2 @@
+[template.environment]
+NEXT_PUBLIC_STREAM_PAY_BACKEND_URL="URL of your Server"
