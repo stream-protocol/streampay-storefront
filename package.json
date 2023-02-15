@@ -1,12 +1,11 @@
 {
-    "name": "stream-pay-commerce",
-    "version": "0.1.0",
+    "name": "streampay-next",
+    "version": "1.0.3",
     "private": true,
-    "author": "Stream Protocol <contact@streamprotocol.org> (https://www.streamprotocol.org)",
-    "description": "Online Store Demo",
+    "author": "Stream Protocol",
+    "description": "Next.js starter to be used with Stream eCommerce server",
     "keywords": [
-        "stream-devices-storefront"
-        "stream-pay"
+        "streampay-storefront"
     ],
     "scripts": {
         "dev": "next dev -p 8000",
