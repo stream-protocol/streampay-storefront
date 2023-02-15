@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://www.streamprotocol.org">
-    <img alt="Powered by StreamPay" src="https://user-images.githubusercontent.com/7554214/153162406-bf8fd16f-aa98-4604-b87b-e13ab4baf604.png" width="100" />
+    <img alt="Powered by StreamPay" src="https://i.imgur.com/K7dN9I6.png" width="100" />
   </a>
 </p>
 
 <h1 align="center">
-  StreamDevices: A Decentralized eCommerce
+  Stream Devices: A Decentralized eCommerce
 </h1>
 
 <p align="center">
